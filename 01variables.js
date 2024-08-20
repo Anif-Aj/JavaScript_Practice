@@ -12,3 +12,12 @@ console.log(a)
 
 var a=10
 console.log(a)
+
+const b=100;
+console.log(b)
+
+
+
+var a = 18;
+var c =20;
+console.log(a+c)
